@@ -3,8 +3,8 @@
 
 Users and Contributers are free to:
 
-    <b> Share </b> — copy and redistribute the material in any medium or format
-    <b> Adapt </b> — remix, transform, and build upon the material
+    * Share  — copy and redistribute the material in any medium or format
+    * Adapt  — reuse, improve, and build upon the base material
 
     The licensor cannot revoke these freedoms as long as you follow the license terms.
 
